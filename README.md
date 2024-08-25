@@ -1,4 +1,3 @@
-# USMLETTSWithSummary
 # Fayy: Text-to-Speech Converter for USMLE Preparation
 
 Fayy is a specialized web application designed to assist resident doctors in their USMLE preparation. It converts text to speech using the ElevenLabs API, allowing medical professionals to listen to study materials while multitasking.
@@ -75,4 +74,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For support, feature requests, or bug reports, please open an issue on the GitHub repository.
 # USMLETTSWithSummary
+
 # USMLETTSWithSummary
