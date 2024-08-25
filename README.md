@@ -1,7 +1,7 @@
 # USMLETTSWithSummary
-# Vox: Text-to-Speech Converter for USMLE Preparation
+# Fayy: Text-to-Speech Converter for USMLE Preparation
 
-Vox is a specialized web application designed to assist resident doctors in their USMLE preparation. It converts text to speech using the ElevenLabs API, allowing medical professionals to listen to study materials while multitasking.
+Fayy is a specialized web application designed to assist resident doctors in their USMLE preparation. It converts text to speech using the ElevenLabs API, allowing medical professionals to listen to study materials while multitasking.
 
 ## Features
 
@@ -59,7 +59,7 @@ npm start
 
 ## Contributing
 
-Contributions to enhance Vox for USMLE preparation are welcome. Please submit a Pull Request with your improvements.
+Contributions to enhance Fayy for USMLE preparation are welcome. Please submit a Pull Request with your improvements.
 
 ## License
 
@@ -74,4 +74,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 For support, feature requests, or bug reports, please open an issue on the GitHub repository.
+# USMLETTSWithSummary
 # USMLETTSWithSummary
