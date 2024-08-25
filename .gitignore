@@ -82,8 +82,6 @@ typings/
 .dynamodb/
 
 # Audio files
-public/audio/*.mp3
-public/audio/*.json
 
 # macOS
 .DS_Store
